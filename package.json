@@ -1,0 +1,19 @@
+{
+  "name": "js-cplusplus-integration",
+  "version": "1.0.0",
+  "description": "Example of Javascript and C++ integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mohamadnachabe/js-cplusplus-integration.git"
+  },
+  "author": "Mohamad Nachabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamadnachabe/js-cplusplus-integration/issues"
+  },
+  "homepage": "https://github.com/mohamadnachabe/js-cplusplus-integration#readme"
+}
